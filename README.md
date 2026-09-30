@@ -62,10 +62,3 @@ U.S. Census Bureau via FRED, Federal Reserve Bank of St. Louis.
 
 Retail Sales: Retail Trade  
 https://fred.stlouisfed.org/series/MRTSSM44000USN
-
-## Author
-
-Mohammad Abu Shams
-
-MBA – Operations Management  
-Birzeit University
